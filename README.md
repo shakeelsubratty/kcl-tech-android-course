@@ -25,6 +25,5 @@ Here you will find links to lecture notes, code samples, resources etc.
 
 - Downloads:
   - [Lecture 1.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%201/Lecture%201%20PDF.pdf)
-
   - [Lecture 1.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%201/Lecture%201.pptx)
   - [End-of-Lecture1.zip](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%201/End-of-Lecture%201%20Project.zip)
