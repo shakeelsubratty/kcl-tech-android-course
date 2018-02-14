@@ -42,7 +42,7 @@ Here you will find links to lecture notes, code samples, resources etc.
 
   **Recap and ListViews**
 
-    - Downloads:
-      - [Lecture 3.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pdf)
-      - [Lecture 3.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pptx)
-      - [list-view-demo.zip](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Android%20Lecture%203.zip)
+  - Downloads:
+    - [Lecture 3.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pdf)
+    - [Lecture 3.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pptx)
+    - [list-view-demo.zip](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Android%20Lecture%203.zip)
