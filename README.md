@@ -40,7 +40,7 @@ Here you will find links to lecture notes, code samples, resources etc.
 
 ## Lecture Three
 
-    **Recap and ListViews**
+  **Recap and ListViews**
 
     - Downloads:
       - [Lecture 3.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pdf)
