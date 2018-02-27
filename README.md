@@ -46,3 +46,19 @@ Here you will find links to lecture notes, code samples, resources etc.
     - [Lecture 3.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pdf)
     - [Lecture 3.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Lecture%203%20.pptx)
     - [list-view-demo.zip](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%203/Android%20Lecture%203.zip)
+
+
+## Lecture Four
+
+  **Preferences and Databases**
+
+  - Downloads:
+    - [Lecture 4.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%204/Lecture%204.pdf)
+    - [Lecture 4.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%204/Lecture%204.pptx)
+    - [handout.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%204/handout.pdf)
+    - [PreferencesAndDatabases.zip](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%204/PreferencesAndDatabases.zip)
+
+
+
+
+
