@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KCLTechTodo</string>
+    <string name="title">Title:</string>
+    <string name="title_input_hint">Enter title...</string>
+    <string name="notes_input_hint">Enter notes...</string>
+    <string name="notes">Notes:</string>
+    <string name="date">Date:</string>
+    <string name="save_button">Save</string>
+    <string name="taskListMenuItemTitle">Task List</string>
+    <string name="taskListActivityCreateTask">Create Task</string>
+    <string name="editTasKActivityNoTitleError">You didn\'t put a title!</string>
+    <string name="editTasKActivityPastDateError">You put a due date before today!</string>
+    <string name="editTasKActivityTaskSaved">Saved!</string>
+    <string name="taskListActivityTitle">Tasks</string>
+    <string name="taskListActivityCompleteButton">Complete</string>
+    <string name="taskListActivityEditButton">Edit</string>
+    <string name="editTaskActivityLoadFailed">Load failed</string>
+</resources>
