@@ -63,7 +63,7 @@ Here you will find links to lecture notes, code samples, resources etc.
 
   **Preferences and Databases**
 
-    - Downloads:
-      - [Lecture 5.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%205/Lecture%205.pdf)
-      - [Lecture 5.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%205/Lecture%205.pptx)
-      - [KCLTechTodo Source Code](https://github.com/shakeelsubratty/kcl-tech-android-course/tree/master/KCLTechTodo)
+  - Downloads:
+    - [Lecture 5.pdf](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%205/Lecture%205.pdf)
+    - [Lecture 5.pptx](https://github.com/shakeelsubratty/kcl-tech-android-course/raw/master/Lecture%205/Lecture%205.pptx)
+    - [KCLTechTodo Source Code](https://github.com/shakeelsubratty/kcl-tech-android-course/tree/master/KCLTechTodo)
